@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1.png" group-title="FRANCE HD",TF1 HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/20071.ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tf1series.png" group-title="FRANCE HD",TF1 SERIES FILMS HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/19919.ts
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tmc1.png" group-title="FRANCE HD",TMC HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/15396.ts
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://aptvpix.net/picons/NEW2022/tfx.png" group-title="FRANCE HD",TFX HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/15396.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://aptvpix.net/picons/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE HD",FRANCE 2 HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/20061.ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/20058.ts
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france4.png" group-title="FRANCE HD",FRANCE 4 HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/20057.ts
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/france5.png" group-title="FRANCE HD",FRANCE 5 HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/20055.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="http://aptvpix.net/pubs/december2020/2-27-2021/m6hd.png" group-title="FRANCE HD",M6 HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/20069.ts
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="http://aptvpix.net/picons/NEW2022/6ter.png" group-title="FRANCE HD",6TER HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/324.ts
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="http://aptvpix.net/picons/NEW2022/w9.png" group-title="FRANCE HD",W9 HD
+http://81637.org:2052/live/XrsQ4JXrAmR7/ns6FV7KXJeBv/5090.ts
