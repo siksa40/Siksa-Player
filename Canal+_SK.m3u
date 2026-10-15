@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.satelitnatv.sk/obrazky/loga_stanic/50/canal_sport_m7_50.png" ,Canal+ Sport CZ
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-logo="https://www.satelitnatv.sk/obrazky/loga_stanic/50/canal_sport2_m7_50.png" ,Canal+ Sport 2
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-logo="https://www.satelitnatv.sk/obrazky/loga_stanic/50/canal_sport3_m7_50.png" ,Canal+ Sport 3
