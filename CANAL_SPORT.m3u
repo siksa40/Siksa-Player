@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalfoot.png" group-title="SPORT FR",CANAL+ FOOT FHD
+#EXTINF:-1 tvg-id="canalplusfoot.fr" tvg-name="CANAL+ FOOT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40208/canal-ouah/CHN43FN/CHN43FN_19_29082023" group-title="SPORT FR",CANAL+ FOOT FHD
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/251405.m3u8
-#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport360.png" group-title="SPORT FR",CANAL+ SPORT360 FHD
+#EXTINF:-1 tvg-id="canalplussport360.fr" tvg-name="CANAL+ SPORT360 FHD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/1920x/filters:quality(%7BimageQualityPercentage%7D)/image/699dc96a34273/uploads/media/C_360.png" group-title="SPORT FR",CANAL+ SPORT360 FHD
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/251406.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="http://aptvpix.net/pubs/2022/canalsport.png" group-title="SPORT FR",CANAL+ SPORT FHD
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT FHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/160x120/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40075/canal-ouah/CHN43FN/CHN43FN_177_29082023" group-title="SPORT FR",CANAL+ SPORT FHD
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/251404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="http://148.251.133.153:8181/logo/chn/2406.png" group-title="Français ",FR | L'EQUIPE 21
+#EXTINF:-1 tvg-id="" tvg-name="FR | L'EQUIPE 21" tvg-logo="https://www.lequipe.fr/_medias/img-photo-png/logoeqp/1500000002596423/0-0-0-70/4fe1d.png" group-title="Français ",FR | L'EQUIPE 21
 http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/252280.m3u8
