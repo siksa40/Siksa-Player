@@ -1,4 +1,6 @@
-#EXTINF:-1 tvg-id="MBC شاهد" tvg-name="MBC شاهد" tvg-logo="https://shahid.mbc.net/staticFiles/production/mbc_shahid.svg?type=webp",group-title="MBC شاهد", MBC شاهد
+#EXTINF:-1 tvg-id="MBC شاهد" tvg-name="MBC شاهد" tvg-logo="https://shahid.mbc.net/mediaObject/d7354fd2-4d5e-4e0e-93e1-8e759b29b892?width=144&version=1&type=avif&q=80",group-title="MBC شاهد", MBC شاهد
+https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8
+#EXTINF:-1 tvg-id="MBC شاهد" tvg-name="MBC شاهد" tvg-logo="https://shahid.mbc.net/mediaObject/06e1a853-795b-4b01-b1fd-baed5df7969c?width=144&version=1&type=avif&q=80",group-title="MBC شاهد", MBC شاهد
 https://shd-amg-fast.edgenextcdn.net/tx001/1080p-d/index.m3u8
 #EXTINF:-1 tvg-id="MBC شاهد" tvg-name="MBC شاهد" tvg-logo="https://shahid.mbc.net/staticFiles/production/mbc_shahid.svg?type=webp",group-title="MBC شاهد", MBC شاهد
 https://shd-amg-fast.edgenextcdn.net/tx002/1080p-d/index.m3u8
