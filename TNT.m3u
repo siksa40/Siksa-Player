@@ -1,22 +1,22 @@
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/62a1b8c31f53b/uploads/media/tf1_logo.png" group-title="FRANCE HD",TF1 HD
-http://princetv.ovh:7355/live/31537105103636621/U09ZEDdu@6X!PeD/156584.ts
+http://tv.streambox.fr/live/testlivestream/testlivestream/16.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/608909fdef60d/uploads/media/21_CHN43FN_526.png" group-title="FRANCE HD",TF1 SERIES FILMS HD
-http://princetv.ovh:7355/live/31537105103636621/U09ZEDdu@6X!PeD/156585.ts
+http://tv.streambox.fr/live/testlivestream/testlivestream/17.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/608909f39e9e4/uploads/media/12_CHN43FN_584.png" group-title="FRANCE HD",TMC HD
-http://princetv.ovh:7355/live/31537105103636621/U09ZEDdu@6X!PeD/2717.ts
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/608909f4c6e45/uploads/media/13_CHN43FN_570.png" group-title="FRANCE HD",TFX HD
-http://princetv.ovh:7355/live/31537105103636621/U09ZEDdu@6X!PeD/156586.ts
+http://tv.streambox.fr/live/testlivestream/testlivestream/33.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/608909e969177/uploads/media/04_CHN43FN_26.png" group-title="FRANCE HD",FRANCE 2 HD
-http://princetv.ovh:7355/live/31537105103636621/U09ZEDdu@6X!PeD/156587.ts
+http://tv.streambox.fr/live/testlivestream/testlivestream/34.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/608909ecca79e/uploads/media/05_CHN43FN_543.png" group-title="FRANCE HD",FRANCE 3 HD
-http://princetv.ovh:7355/live/31537105103636621/U09ZEDdu@6X!PeD/156588.ts
+http://tv.streambox.fr/live/testlivestream/testlivestream/35.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/608909eba8862/uploads/media/06_CHN43FN_544.png" group-title="FRANCE HD",FRANCE 4 HD
-http://princetv.ovh:7355/live/31537105103636621/U09ZEDdu@6X!PeD/156589.ts
+http://tv.streambox.fr/live/testlivestream/testlivestream/36.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~5f611b705ca3f017.png/40x40/quality/80/france-5.png" group-title="FRANCE HD",FRANCE 5 HD
-http://princetv.ovh:7355/live/31537105103636621/U09ZEDdu@6X!PeD/156590.ts
+http://tv.streambox.fr/live/testlivestream/testlivestream/37.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/608909ef17ca4/uploads/media/08_CHN43FN_313.png" group-title="FRANCE HD",M6 HD
-http://princetv.ovh:7355/live/31537105103636621/U09ZEDdu@6X!PeD/156591.ts
+http://tv.streambox.fr/live/testlivestream/testlivestream/15.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/608909fbb6563/uploads/media/19_CHN43FN_521.png" group-title="FRANCE HD",6TER HD
-http://princetv.ovh:7355/live/31537105103636621/U09ZEDdu@6X!PeD/1930.ts
+http://tv.streambox.fr/live/testlivestream/testlivestream/67.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/421x/filters:quality(%7BimageQualityPercentage%7D)/image/608909f284ac7/uploads/media/11_CHN43FN_296.png" group-title="FRANCE HD",W9 HD
-http://princetv.ovh:7355/live/31537105103636621/U09ZEDdu@6X!PeD/156593.ts
+http://tv.streambox.fr/live/testlivestream/testlivestream/23.m3u8
